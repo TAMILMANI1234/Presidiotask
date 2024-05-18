@@ -1,0 +1,222 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "tamil",
+      "password": "tamil",
+      "email": "k.tamil2006@gmail.com"
+    },
+    {
+      "id": "f855",
+      "firatname": "Tamilmani",
+      "lastname": "K",
+      "email": "k.tamilmani1234@gmail.com",
+      "password": "tamil"
+    },
+    {
+      "id": "83a7",
+      "firatname": "Tamilmani",
+      "lastname": "K",
+      "email": "harrissm.19it@kongu.edu",
+      "password": "aa"
+    }
+  ],
+  "cart": [],
+  "data": [
+    {
+      "id": "d0d1",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUo12E1QFx2LdYsgKFSSXHyUoIARdCQj9ZNA&s",
+      "price": "800000",
+      "ownername": "JJ T Promoters",
+      "type": "land",
+      "discription": "Pongalur is an ideal location for buying residential plots in tirupur. This plot in pongalur is a great buy for you.",
+      "district": "tirupur",
+      "state": "tamilnadu",
+      "date": "15.05.2024",
+      "ratings": "5",
+      "email": "k.tamilmani1234@gmail.com"
+    },
+    {
+      "id": "d0d2",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQqQ7FuZRoZds2qPSFcSV7wSAipYGInqYkQ&s",
+      "price": "8000",
+      "ownername": "Aruna krish",
+      "discription": "3BHA",
+      "type": "house",
+      "district": "tiruvanathapuram",
+      "state": "kerala",
+      "date": "18.05.2024",
+      "ratings": "5",
+      "email": "k.tamilmani1234@gmail.com"
+    },
+    {
+      "id": "d0d3",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUo12E1QFx2LdYsgKFSSXHyUoIARdCQj9ZNA&s",
+      "price": "1100000",
+      "ownername": "VV traders",
+      "discription": "Looking for Land in Avinashipalayam? Explore great investment options in Queensland.",
+      "type": "land",
+      "district": "tirupur",
+      "state": "tamilnadu",
+      "date": "011.05.2024",
+      "ratings": "5",
+      "email": "k.tamilmani1234@gmail.com"
+    },
+    {
+      "id": "d0d4",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN2bYd1PO3P842qLOQENPho7vOT2sQca0FQ&s",
+      "price": "1000000",
+      "ownername": "JJ promoters",
+      "discription": "Want to invest in Land in Moongilpalayam? Check out Saifield Andavar Avenue, the city's best offering in this category.",
+      "type": "land",
+      "district": "Pune",
+      "state": "Maharastra",
+      "date": "16.05.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d5",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOs0c7CgVjNv_QcS9IRdUQOpx_wZKp5FAJQ&s",
+      "price": "5000",
+      "ownername": "Kavin",
+      "discription": "2BHA",
+      "type": "house",
+      "district": "guntoor",
+      "state": "andra pradesh  ",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d6",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8RKT6GbKMUcGoW6puV8vJ5QwlGoDW3jQwQ&s",
+      "price": "15000",
+      "ownername": "Bana Karthish",
+      "discription": "2BHA",
+      "type": "house",
+      "district": "bengalore",
+      "state": "karnataka",
+      "date": "22.04.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d7",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTBzCgkcF0r2Ih83fwsDmdGdg1Z1rdw1yVw&s",
+      "price": "7000",
+      "ownername": "Jahanadhan",
+      "type": "land",
+      "discription": "25 cents large farm sites available for sale - East facing Approach road to site by 60feet and 30feet road State highway 165 0.5 kms",
+      "district": "agra",
+      "state": "delhi",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d8",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ0mnbqSaTWf5ENIWw-PTfo5PtnTVNgITAw&s",
+      "price": "27000",
+      "ownername": "Modi",
+      "discription": "Palladam bus stand back,side dtcp rera approved fully residential area tar road street light water available gated community project.",
+      "type": "land",
+      "district": "hyderabad",
+      "state": "telugana",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d9",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISfbbSopNKcF_lmq22hr_1affGgAi3SSCHg&s",
+      "price": "19000",
+      "ownername": "Aurn jetly",
+      "discription": "2BHA",
+      "type": "house",
+      "district": "ariyalore",
+      "state": "tamilnadu",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d10",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcmaubahPTDbnhqYoSSdCL4PLRyWxhpoFJQ&s",
+      "price": "66000",
+      "ownername": "Alvantha",
+      "discription": "2BHA",
+      "type": "apartment",
+      "district": "chennai",
+      "state": "tamilnadu",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d11",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZH5Z5FE4ddY9Pvg9G7k0bVb43RJTbh9IMlg&s",
+      "price": "5000",
+      "ownername": "sarkar",
+      "discription": "3BHA",
+      "type": "apartment",
+      "district": "mumbai",
+      "state": "Maharastra",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d12",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbUzfMt1xvDccVYeKsuzt9n7mCycYrdiyMQ&s",
+      "price": "10000",
+      "ownername": "tamil",
+      "discription": "2BHA",
+      "type": "apartment",
+      "district": "jaipur",
+      "state": "gujarat",
+      "date": "01.02.2024",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d13",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEfKYle0kee6PGeAeTGS8AjKFt624EbRCSA&s",
+      "price": "9000",
+      "discription": "2BHA INdependent house",
+      "district": "Tiruppur",
+      "state": "Tamilnadu",
+      "ownername": "Jana Promoters",
+      "date": "24.04.24",
+      "type": "house",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d14",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKEfKYle0kee6PGeAeTGS8AjKFt624EbRCSA&s",
+      "price": "2500",
+      "discription": "2BHA INdependent house with swimming pool, car parking. 1km awway from bus stand",
+      "district": "coimbatore",
+      "state": "Tamilnadu",
+      "ownername": "Jony sines",
+      "date": "25.04.24",
+      "type": "house",
+      "ratings": "5"
+    },
+    {
+      "id": "d0d15",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGlKxCyUk_sigDoi-qblBL3xokXZu_zwK6Q&s",
+      "price": "5000",
+      "discription": "2BHA INdependent house",
+      "district": "chennai",
+      "state": "Tamilnadu",
+      "ownername": "KY Traders",
+      "date": "20.04.24",
+      "type": "house",
+      "ratings": "5"
+    },
+    {
+      "id": "07a7",
+      "images": "data:image/jpeg;base64,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",
+      "price": "100",
+      "ownername": "Tamilmani K",
+      "type": "Land",
+      "discription": "2BHA",
+      "district": "tiruppur",
+      "state": "Tamil Nadu",
+      "date": "18.5.2024",
+      "email": "k.tamilmani1234@gmail.com"
+    }
+  ]
+}
